@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-2b5983d6a6.dayongrc.cn/sitemap.xml
